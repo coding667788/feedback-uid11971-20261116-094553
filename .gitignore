@@ -1,0 +1,11 @@
+.runtime-tmp/
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+*token*
+*secret*
+*.key
+*.pem
+*.dpapi
